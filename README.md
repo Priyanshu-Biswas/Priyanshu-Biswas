@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Priyanshu-Biswas
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Deep Learning
 - 📫 How to reach me: priyanshubiswas013@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Immortal jellyfish exists!
